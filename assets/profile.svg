@@ -43,7 +43,7 @@
       </clipPath>
   </defs>
   
-  <rect x="0" y="0" width="811" height="574" rx="10" fill="#232323" />
+  <rect x="0" y="0" width="811" height="574" rx="10" fill="#27282A" />
   <path d="M0,10 a10,10 0 0 1 10,-10 h791 a10,10 0 0 1 10,10 v24 h-811 z"
         fill="#222226" />
   <circle cx="24" cy="17" r="6" fill="#ff5f57" />
