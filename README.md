@@ -11,38 +11,20 @@
 
 <p align="center">
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,anaconda,git,github,linux,arch,bash,vscode,docker,postgres&perline=7" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,c,rust,pytorch,sklearn,git,github,linux,arch,bash,docker,postgres,neovim,figma&perline=7" alt="My Skills" />
   </a>
 </p>
 
 ---
 
-## 🧪 Research & Interests
-
-- **Machine Learning:** Supervised learning, feature engineering, model evaluation
-- **Deep Learning:** Neural networks, representation learning, model optimization
-- **LLMs:** Hallucination detection, likelihood-based signals, evaluation
-- **AI Research:** Reproducibility, experimental design, statistical analysis
-- **MLOps:** Model deployment, experiment tracking, reproducible pipelines
-
----
-
-## 🚀 Featured Projects
+## Featured Projects
 
 <!-- Replace these examples with links to your actual repositories. -->
 
-- 🔬 **AI Research** — Research experiments, paper reproduction, and model improvements.
-- 🤖 **Machine Learning** — ML algorithms, experiments, and evaluation.
-- 🧠 **Deep Learning** — Neural networks and deep learning applications.
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Danglee1107&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danglee1107&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+-  **AI Research** — Research experiments, paper reproduction, and model improvements.
+-  **Machine Learning** — ML algorithms, experiments, and evaluation.
+-  **Deep Learning** — Neural networks and deep learning applications.
+-  **LLMs** - build a LLM model from scratch in rust.
 
 ---
 
