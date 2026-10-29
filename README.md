@@ -18,7 +18,6 @@
 
 ---
 
-
 ## Featured Projects
 
 -  **AI Research** — Research experiments, paper reproduction, and model improvements.
