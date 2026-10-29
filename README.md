@@ -56,7 +56,7 @@ I’m a student passionate about Artificial Intelligence, Machine Learning, Deep
 <!-- Generated automatically by github-profile-3d-contrib. -->
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Calendar" width="100%" />
+  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D Seasonal Contribution Calendar — Northern Hemisphere" width="100%" />
 </p>
 
 ---
