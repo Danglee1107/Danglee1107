@@ -22,7 +22,7 @@
 -  **AI Research** — Research experiments, paper reproduction, and model improvements.
 -  **Machine Learning** — ML algorithms, experiments, and evaluation.
 -  **Deep Learning** — Neural networks and deep learning applications.
--  **LLMs** - build a LLM model from scratch in rust.
+-  **LLMs** — build a LLM model from scratch in rust.
 
 ---
 
