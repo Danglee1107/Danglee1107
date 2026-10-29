@@ -26,7 +26,7 @@
 
 ---
 
-## 3D Contribution Calendar
+## Contribution Calendar
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D Seasonal Contribution Calendar — Northern Hemisphere" width="100%" />
