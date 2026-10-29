@@ -1,15 +1,10 @@
-# Hi, I'm Your Name 👋
-
-### AI/ML Engineer in Progress | Deep Learning | Research
-
-I’m a student passionate about Artificial Intelligence, Machine Learning, Deep Learning, and building intelligent systems. I enjoy exploring the mathematical foundations of ML, conducting experiments, and turning research ideas into practical applications.
-
-- 🔭 Currently working on **Machine Learning & AI Research**
-- 🧠 Exploring **Deep Learning, LLMs, and AI Research**
-- 📚 Learning the mathematics behind machine learning algorithms
-- 🎯 Goal: Become an **AI/ML Engineer and Researcher**
-- 🌏 Based in Vietnam
-
+<p align="center">
+  <img
+    src="./assets/profile.svg"
+    alt="3D Seasonal GitHub Contributions"
+    width="100%"
+  />
+</p>
 ---
 
 ## 🛠️ Tech Stack & Skills
