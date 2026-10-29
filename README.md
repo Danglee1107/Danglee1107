@@ -19,8 +19,6 @@
 
 ## Featured Projects
 
-<!-- Replace these examples with links to your actual repositories. -->
-
 -  **AI Research** — Research experiments, paper reproduction, and model improvements.
 -  **Machine Learning** — ML algorithms, experiments, and evaluation.
 -  **Deep Learning** — Neural networks and deep learning applications.
@@ -29,8 +27,6 @@
 ---
 
 ## 🧊 3D Contribution Calendar
-
-<!-- Generated automatically by github-profile-3d-contrib. -->
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D Seasonal Contribution Calendar — Northern Hemisphere" width="100%" />
