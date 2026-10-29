@@ -7,7 +7,7 @@
 </p>
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 <p align="center">
   <a href="https://github.com/tandpfun/skill-icons">
@@ -26,7 +26,7 @@
 
 ---
 
-## 🧊 3D Contribution Calendar
+## 3D Contribution Calendar
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D Seasonal Contribution Calendar — Northern Hemisphere" width="100%" />
@@ -34,7 +34,7 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://github.com/Danglee1107">
