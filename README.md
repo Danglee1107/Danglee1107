@@ -1,3 +1,10 @@
+<p align="center">
+  <img
+    src="./assets/profile.svg"
+    alt="3D Seasonal GitHub Contributions"
+    width="100%"
+  />
+</p>
 
 ---
 
